@@ -1,2 +1,2 @@
 # AudioToEncode
-Send audio formats to be encoded via eac3to and qaac
+Send audio formats to a batch file to be encoded via eac3to and qaac.
